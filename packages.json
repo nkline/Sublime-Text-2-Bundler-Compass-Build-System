@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "Bundler-Compass",
+			"description": "A Bundler Build/Watch System for Compass (SCSS/SASS)",
+			"author": "Nick Kline",
+			"homepage": "https://github.com/nkline/Sublime-Text-2-Bundler-Compass-Build-System",
+			"last_modified": "2013-04-01 16:07:00",
+			"platforms": {
+				"*": [
+					{
+						"version": "0.1",
+						"url": "https://github.com/nkline/Sublime-Text-2-Bundler-Compass-Build-System/zipball/v0.1"
+					}
+				]
+			}
+		}
+	]
+}
